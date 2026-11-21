@@ -1,0 +1,13 @@
+name: "Railway"
+description: "Railway is a deployment and infrastructure platform that provisions cloud resources and deploys code from GitHub. It supports databases, services, and cron jobs with a focus on developer experience. Pricing is usage-based with a trial credit for new users."
+source_url: "https://railway.app/"
+category: "Heroku Alternatives"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "git"
+  - "docker"
+icon_url: "https://icons.duckduckgo.com/ip3/railway.app.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://railway.app/>\n"
+updated_at: "2026-11-21 01:54"

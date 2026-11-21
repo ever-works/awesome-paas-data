@@ -1,0 +1,13 @@
+name: "Dokku"
+description: "Dokku is an open-source, self-hosted PaaS that runs on a single server and uses Docker containers. It provides a Heroku-like experience via Git push commands and plugin support. It is free to install and use on your own infrastructure."
+source_url: "https://dokku.com/"
+category: "Self-Hosted PaaS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "docker"
+  - "git"
+icon_url: "https://icons.duckduckgo.com/ip3/dokku.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://dokku.com/>\n- Repository: <https://github.com/dokku/dokku>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:54"

@@ -1,0 +1,13 @@
+name: "OpenShift"
+description: "OpenShift is a Kubernetes-based container platform from Red Hat for enterprise application deployment. It supports self-hosted and managed deployments with developer and operational tools. Pricing includes open-source OKD and paid enterprise subscriptions."
+source_url: "https://www.openshift.com/"
+category: "Container Platforms"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "enterprise"
+  - "kubernetes"
+  - "red-hat"
+icon_url: "https://icons.duckduckgo.com/ip3/www.openshift.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.openshift.com/>\n- Repository: <https://github.com/openshift/okd>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:54"

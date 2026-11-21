@@ -1,0 +1,13 @@
+name: "Qovery"
+description: "Qovery is a managed PaaS that deploys applications on AWS, GCP, and Azure using Kubernetes. It automates infrastructure, CI/CD, and environment management for development teams. Pricing is paid with a free trial available."
+source_url: "https://www.qovery.com/"
+category: "Managed PaaS"
+tags:
+  - "paid"
+  - "freemium"
+  - "api"
+  - "kubernetes"
+  - "multi-cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.qovery.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.qovery.com/>\n"
+updated_at: "2026-11-21 01:54"

@@ -1,0 +1,13 @@
+name: "Dokploy"
+description: "Dokploy is an open-source, self-hosted alternative to PaaS platforms like Heroku and Netlify. It enables deployment of applications and databases on personal servers using Docker and Docker Compose. The platform is free to self-host."
+source_url: "https://dokploy.com/"
+category: "Self-Hosted PaaS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "docker"
+  - "compose"
+icon_url: "https://icons.duckduckgo.com/ip3/dokploy.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://dokploy.com/>\n- Repository: <https://github.com/dokploy/dokploy>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:54"

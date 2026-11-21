@@ -1,0 +1,13 @@
+name: "Portainer"
+description: "Portainer is a self-hosted container management platform for Docker, Kubernetes, and other environments. It provides a graphical UI for managing containers, stacks, and registries. It offers open-source and business editions."
+source_url: "https://www.portainer.io/"
+category: "Container Platforms"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "docker"
+  - "kubernetes"
+icon_url: "https://icons.duckduckgo.com/ip3/www.portainer.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.portainer.io/>\n- Repository: <https://github.com/portainer/portainer>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:54"

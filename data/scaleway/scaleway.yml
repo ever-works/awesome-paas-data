@@ -1,0 +1,13 @@
+name: "Scaleway"
+description: "Scaleway is a European cloud provider offering serverless containers, functions, and managed databases. It provides a PaaS-like experience for deploying containerized workloads without managing servers. Pricing is pay-as-you-go with a free tier for some services."
+source_url: "https://www.scaleway.com/"
+category: "Edge & Serverless Platforms"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "serverless"
+  - "containers"
+icon_url: "https://icons.duckduckgo.com/ip3/www.scaleway.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.scaleway.com/>\n"
+updated_at: "2026-11-21 01:54"

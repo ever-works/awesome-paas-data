@@ -1,0 +1,13 @@
+name: "Fly.io"
+description: "Fly.io runs applications in Docker containers across global edge locations. It provides private networking, managed databases, and CLI-driven deployment for developers. Pricing is usage-based with a free allowance for small apps."
+source_url: "https://fly.io/"
+category: "Edge & Serverless Platforms"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "docker"
+  - "edge"
+icon_url: "https://icons.duckduckgo.com/ip3/fly.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://fly.io/>\n"
+updated_at: "2026-11-21 01:54"

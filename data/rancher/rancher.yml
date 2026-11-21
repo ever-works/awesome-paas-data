@@ -1,0 +1,13 @@
+name: "Rancher"
+description: "Rancher is an open-source container management platform for Kubernetes clusters. It simplifies cluster provisioning, security, and workload deployment across any infrastructure. It is free to use with optional enterprise support."
+source_url: "https://www.rancher.com/"
+category: "Container Platforms"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "kubernetes"
+  - "multi-cluster"
+icon_url: "https://icons.duckduckgo.com/ip3/www.rancher.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.rancher.com/>\n- Repository: <https://github.com/rancher/rancher>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:54"

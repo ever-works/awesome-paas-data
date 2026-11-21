@@ -1,0 +1,13 @@
+name: "DigitalOcean App Platform"
+description: "DigitalOcean App Platform is a managed PaaS for deploying apps, static sites, and databases. It integrates with GitHub and GitLab and offers managed infrastructure and automatic deployments. Pricing includes a free tier for static sites and paid plans for apps."
+source_url: "https://www.digitalocean.com/products/app-platform"
+category: "Managed PaaS"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "git"
+  - "digitalocean"
+icon_url: "https://icons.duckduckgo.com/ip3/www.digitalocean.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.digitalocean.com/products/app-platform>\n"
+updated_at: "2026-11-21 01:54"

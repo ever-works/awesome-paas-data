@@ -1,0 +1,13 @@
+name: "Koyeb"
+description: "Koyeb is a developer-friendly serverless platform for deploying containerized applications globally. It supports Git-based deployment, automatic scaling, and managed services. A free tier is available with limited resources."
+source_url: "https://www.koyeb.com/"
+category: "Free Tiers"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "api"
+  - "serverless"
+  - "docker"
+icon_url: "https://icons.duckduckgo.com/ip3/www.koyeb.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.koyeb.com/>\n"
+updated_at: "2026-11-21 01:54"

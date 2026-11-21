@@ -1,0 +1,13 @@
+name: "Vercel"
+description: "Vercel is a cloud platform for frontend developers to deploy static sites and serverless functions. It offers Git integration, automatic scaling, and global edge delivery. Pricing includes a free hobby tier and paid pro plans."
+source_url: "https://vercel.com/"
+category: "Edge & Serverless Platforms"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "serverless"
+  - "frontend"
+icon_url: "https://icons.duckduckgo.com/ip3/vercel.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://vercel.com/>\n"
+updated_at: "2026-11-21 01:54"

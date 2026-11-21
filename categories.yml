@@ -1,0 +1,12 @@
+- id: managed-paas
+  name: "Managed PaaS"
+- id: self-hosted-paas
+  name: "Self-Hosted PaaS"
+- id: container-platforms
+  name: "Container Platforms"
+- id: edge-and-serverless-platforms
+  name: "Edge & Serverless Platforms"
+- id: free-tiers
+  name: "Free Tiers"
+- id: heroku-alternatives
+  name: "Heroku Alternatives"
